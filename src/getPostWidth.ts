@@ -1,4 +1,4 @@
-import { ComponentSize } from './componentSize';
+import { ComponentSize } from 'nbnw-ui-constants';
 
 export const getPostWidth = (type: ComponentSize): string => {
   switch (type) {

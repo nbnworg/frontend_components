@@ -1,5 +1,5 @@
 {
-  "name": "uinbnwcomponents",
+  "name": "nbnw-ui-components",
   "version": "1.0.0",
   "description": "Some static React components",
   "main": "dist/index.js",
@@ -13,6 +13,7 @@
     "dist"
   ],
   "dependencies": {
+    "nbnw-ui-constants": "^1.0.5",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },
