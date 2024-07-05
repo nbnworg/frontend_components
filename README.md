@@ -1,4 +1,4 @@
-It contains common UI components :category,preloader ,getpostwidth and Display<br />
+It contains common UI components :category,preloader ,getpostwidth.<br />
 To include the package in project :<br />
 1 Add a .npmrc file <br />
 with contents <br />
