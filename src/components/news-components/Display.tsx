@@ -6,7 +6,7 @@ import {
   PostFrontend,
 } from 'nbnw-ui-constants';
 import Category from './Category';
-import { getPostWidth } from '../utils/getPostWidth';
+import { getPostWidth } from '../../utils/getPostWidth';
 export default function Display({
   post,
   component,
