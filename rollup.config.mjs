@@ -5,7 +5,7 @@ import postcss from 'rollup-plugin-postcss';
 import peerDepsExternal from 'rollup-plugin-peer-deps-external';
 
 export default {
-  input: 'src/index.tsx', // Adjusted to use index.tsx
+  input: 'news/index.tsx', // Adjusted to use index.tsx
   output: {
     file: 'dist/index.js',
     format: 'cjs',
